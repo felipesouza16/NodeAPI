@@ -4,5 +4,5 @@ export class User {
     Id;
     Email;
     Password;
-    TypeUser = TypeUser;
+    TypeUser = new TypeUser();
 }

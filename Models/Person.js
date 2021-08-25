@@ -6,5 +6,5 @@ export class Person {
     LastName;
     BirthDate;
     Document;
-    User = User;
+    User = new User();
 }

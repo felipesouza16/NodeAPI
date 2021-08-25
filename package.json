@@ -12,11 +12,11 @@
   },
   "author": "Felps&Gabras",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/felipesouza16/NodeAPI/issues"
   },
   "homepage": "https://github.com/felipesouza16/NodeAPI#readme",
-  "type": "module",
   "dependencies": {
     "axios": "^0.21.1"
   }
